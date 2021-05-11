@@ -72,11 +72,11 @@ $ yarn dev
 Vai para http://localhost:3000/ para ver o aplicativo em execução.
 
 
-# :closed_book: License
+# :closed_book: Licença
 
-Released in 2021 :closed_book: License
+Lançado em 2021 :closed_book: Licencia
 
-Made by [José Wellington](https://github.com/josewmarinho) 🚀.
-This project is under the [MIT license](./LICENSE).
+Feito por [José Wellington](https://github.com/josewmarinho) 🚀.
+Esse projeto esta sobre [MIT license](./LICENSE).
 
-Give a ⭐️ if this project helped you!
+Dê uma ⭐️ se esse projeto te ajudou!
