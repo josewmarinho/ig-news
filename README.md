@@ -3,9 +3,9 @@
 </p>
 
 <div align="center">
-    <img alt="GitHub top language" src="">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/josewmarinho/ig-news?color=yellow&label=TypeScript">
     <a href="https://www.linkedin.com/in/josewportomarinhojr/" target="_blank" rel="josewportomarinhojr">
-      <img alt="Made by" src="">
+      <img alt="Made by" src="https://img.shields.io/badge/Made%20by-Jos%C3%A9%20Wellington-yellow">
     </a>
     <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow">
   </p>
